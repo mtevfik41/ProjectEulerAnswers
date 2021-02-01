@@ -1,3 +1,3 @@
 # ProjectEulerAnswers
 
-Project Euler Answers by me.
+Project Euler Answers to the questions I solved.
