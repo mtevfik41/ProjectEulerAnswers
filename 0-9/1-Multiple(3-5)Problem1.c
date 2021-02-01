@@ -1,4 +1,5 @@
-#include <cs50.h>
+// PROBLEM = https://projecteuler.net/problem=1
+
 #include <stdio.h>
 
 int main(void)
@@ -11,6 +12,3 @@ int main(void)
     }
     printf("answer is: %i\n", sum);
 }
-
-/* project euler problem 1 answer (C language) 
-by Mustafa Kadan */ 

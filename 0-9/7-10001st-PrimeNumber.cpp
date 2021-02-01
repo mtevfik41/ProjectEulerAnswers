@@ -1,3 +1,5 @@
+// PROBLEM = https://projecteuler.net/problem=7
+
 #include <iostream>
 
 using namespace std;

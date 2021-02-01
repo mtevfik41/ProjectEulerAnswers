@@ -1,4 +1,5 @@
-#include <cs50.h>
+// PROBLEM = https://projecteuler.net/problem=2
+
 #include <stdio.h>
 
 int main() {
@@ -21,4 +22,3 @@ int main() {
 
     return 0;
 }
-// by Mustafa Kadan project euler problem 2 answer ( C language )

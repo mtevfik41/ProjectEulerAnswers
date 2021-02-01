@@ -1,3 +1,5 @@
+// PROBLEM = https://projecteuler.net/problem=3
+
 #include <stdio.h>
 
 int main()
@@ -38,5 +40,3 @@ int main()
 
     return 0;
 }
-
-/*by Mustafa Kadan project euler problem 3 answer ( C language ) */

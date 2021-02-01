@@ -1,3 +1,5 @@
+// PROBLEM = https://projecteuler.net/problem=11
+
 #include <iostream>
 #include <list>
 #include <iomanip>

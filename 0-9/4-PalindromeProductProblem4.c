@@ -1,3 +1,5 @@
+// PROBLEM = https://projecteuler.net/problem=4
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
@@ -36,6 +38,7 @@ int isPalindrome(int x)
 	}while(sayi > 0);
 
     int list[basamak];
+    
 	for (int i = basamak-1 ;i >= 0;i--)
 	{
 		list[i] = sayi1 % 10;

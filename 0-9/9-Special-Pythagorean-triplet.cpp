@@ -1,3 +1,5 @@
+// PROBLEM = https://projecteuler.net/problem=9
+
 #include <iostream>
 #include <cmath>
 using namespace std;
